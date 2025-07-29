@@ -94,6 +94,20 @@ End.
 
 ## Program 5
 
+1)Declare an integer array arr of size 5, initialized with {100, 20, 60, 40, 50}.
+
+2)Initialize min and max with arr[0].
+
+3)For i from 0 to 4:
+
+4)If arr[i] is less than min, update min to arr[i].
+
+5)If arr[i] is greater than max, update max to arr[i].
+
+6)Print min with label "The minimum number is:".
+
+7)Print max with label "The maximum number is:"
+
 
 
 
