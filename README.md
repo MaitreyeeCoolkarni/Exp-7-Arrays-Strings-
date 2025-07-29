@@ -10,23 +10,23 @@ VS code/Programiz
 
 Key Characteristics
 
-Fixed Size: The size of an array is determined at declaration and cannot be changed during runtime (in standard C++ arrays).
+1)Fixed Size: The size of an array is determined at declaration and cannot be changed during runtime (in standard C++ arrays).
 
-Homogeneous: All elements must be of the same data type (e.g., all int, all float, etc.).
+2)Homogeneous: All elements must be of the same data type (e.g., all int, all float, etc.).
 
-Contiguous Memory: Elements are stored sequentially, enabling fast access via index.
+3)Contiguous Memory: Elements are stored sequentially, enabling fast access via index.
 
-Index-Based Access: Elements are accessed using their index (e.g., arr[0] for the first element).
+4)Index-Based Access: Elements are accessed using their index (e.g., arr[0] for the first element).
 
-Static vs Dynamic:
+5)Static vs Dynamic:
 
-Static Arrays: Declared with a fixed size at compile-time (e.g., int arr[5];).
+6)Static Arrays: Declared with a fixed size at compile-time (e.g., int arr[5];).
 
-Dynamic Arrays: Allocated at runtime using new and deallocated using delete (e.g., int* arr = new int[5];).
+7)Dynamic Arrays: Allocated at runtime using new and deallocated using delete (e.g., int* arr = new int[5];).
 
-Elements are accessed using the index: arr[i].
+8)Elements are accessed using the index: arr[i].
 
-Modification: Assign new values using the index (e.g., arr[2] = 50;).
+9)Modification: Assign new values using the index (e.g., arr[2] = 50;).
 
 Limitations
 Fixed size (static arrays cannot grow or shrink).
@@ -48,6 +48,21 @@ C++ Strings (std::string)
 Definition: A class from the <string> library that provides a dynamic, safe, and convenient way to handle strings.
 
 ## ALGORITHM:
+
+Program 1
+
+1.Declare an integer array arr of size 5.
+2.For i from 0 to 4:
+3.Prompt user for a number and store it in arr[i].
+4.For i from 0 to 4:
+5.Print arr[i] with a newline.
+6.End.
+
+Program 2:
+
+
+
+
 
 
 
