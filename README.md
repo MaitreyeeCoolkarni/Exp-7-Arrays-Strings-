@@ -41,26 +41,39 @@ Key Characteristics
 Program 1
 
 1.Declare an integer array arr of size 5.
+
 2.For i from 0 to 4:
+
 3.Prompt user for a number and store it in arr[i].
+
 4.For i from 0 to 4:
+
 5.Print arr[i] with a newline.
+
 6.End.
 
 Program 2:
 
 1)Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
+
 2)Declare an integer variable key.
+
 3)Prompt user to enter a value for key and store it.
+
 4)For i from 0 to 4:
+
 5)If key equals arr[i], print "Key is at location i".
+
 6)End.
 
 Program 3:
 
 Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
+
 For i from 0 to 4:
+
 Print arr[4-i] with a newline.
+
 End.
 
 Program 4:
