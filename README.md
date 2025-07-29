@@ -8,6 +8,10 @@ VS code/Programiz
 
 ## Theory:
 
+## Arrays
+
+In computer science, arrays are a fundamental data structure used to store a fixed-size, sequential collection of elements of the same type. Since you previously asked about strings in C++, I’ll focus on the theory of arrays in the context of C++ (and general computer science concepts where applicable), covering their definition, properties, operations, and considerations. I’ll keep it concise, structured, and relevant, assuming you want a theoretical overview with some C++-specific insights.
+
 Key Characteristics
 
 1)Fixed Size: The size of an array is determined at declaration and cannot be changed during runtime (in standard C++ arrays).
