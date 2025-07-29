@@ -38,7 +38,7 @@ Key Characteristics
 
 ## ALGORITHM:
 
-Program 1
+## Program 1
 
 1.Declare an integer array arr of size 5.
 
@@ -52,7 +52,7 @@ Program 1
 
 6.End.
 
-Program 2:
+## Program 2:
 
 1)Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
 
@@ -66,7 +66,7 @@ Program 2:
 
 6)End.
 
-Program 3:
+## Program 3:
 
 Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
 
@@ -76,7 +76,24 @@ Print arr[4-i] with a newline.
 
 End.
 
-Program 4:
+## Program 4:
+
+1)Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
+
+2)Declare integer variables sum (initialized to 0) and average.
+
+3)For i from 0 to 4:
+
+4)Add arr[i] to sum.
+
+5)Calculate average as sum divided by 5.
+
+6)Print sum with label "This is the sum:".
+
+7)Print average with label "This is average:".
+
+## Program 5
+
 
 
 
