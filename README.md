@@ -28,7 +28,7 @@ Key Characteristics
 
 9)Modification: Assign new values using the index (e.g., arr[2] = 50;).
 
-Limitations:
+## Limitations:
 
 1)Fixed size (static arrays cannot grow or shrink).
 
@@ -48,6 +48,7 @@ Program 1
 6.End.
 
 Program 2:
+
 1)Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
 2)Declare an integer variable key.
 3)Prompt user to enter a value for key and store it.
@@ -56,6 +57,15 @@ Program 2:
 6)End.
 
 Program 3:
+
+Declare an integer array arr of size 5, initialized with {10, 20, 30, 40, 50}.
+For i from 0 to 4:
+Print arr[4-i] with a newline.
+End.
+
+Program 4:
+
+
 
 
 
