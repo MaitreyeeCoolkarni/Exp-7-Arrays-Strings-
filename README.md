@@ -36,6 +36,22 @@ Key Characteristics
 
 3)Insertion/deletion is inefficient (requires shifting elements).
 
+## Strings
+
+In C++, the std::string class is a part of the Standard Library and provides a convenient way to work with strings of characters. Unlike C-style strings (null-terminated character arrays), std::string is a dynamic, object-oriented string type that simplifies string manipulation, memory management, and safety. Below is a concise overview of strings in C++, focusing on std::string, its key features, common operations, and practical examples.
+
+Key Features of std::string
+
+1)Defined in: <string> header.
+
+2)Dynamic Size: Automatically resizes to accommodate content, unlike fixed-size C-style strings.
+
+3)Memory Management: Handles allocation and deallocation internally, reducing risks of memory leaks or buffer overflows.
+
+4)Rich Functionality: Provides methods for concatenation, substring extraction, searching, comparison, and more.
+
+5)Interoperability: Works seamlessly with C-style strings when needed (e.g., via .c_str()).
+
 ## ALGORITHM:
 
 ## Program 1
