@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//To find the number in the array.
+//To reverse the array
 int main() {
     
 int arr[5]={10,20,30,40,50};
