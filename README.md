@@ -28,24 +28,13 @@ Key Characteristics
 
 9)Modification: Assign new values using the index (e.g., arr[2] = 50;).
 
-Limitations
-Fixed size (static arrays cannot grow or shrink).
+Limitations:
 
-No built-in bounds checking, risking undefined behavior.
+1)Fixed size (static arrays cannot grow or shrink).
 
-Insertion/deletion is inefficient (requires shifting elements).
+2)No built-in bounds checking, risking undefined behavior.
 
-Theory on Strings in C++
-Definition
-
-A string in C++ is a sequence of characters used to represent text. C++ supports two primary ways to handle strings:
-
-C++ Strings: Objects of the std::string class from the Standard Library.
-
-C-style Strings
-
-C++ Strings (std::string)
-Definition: A class from the <string> library that provides a dynamic, safe, and convenient way to handle strings.
+3)Insertion/deletion is inefficient (requires shifting elements).
 
 ## ALGORITHM:
 
@@ -65,6 +54,9 @@ Program 2:
 4)For i from 0 to 4:
 5)If key equals arr[i], print "Key is at location i".
 6)End.
+
+Program 3:
+
 
 
 
