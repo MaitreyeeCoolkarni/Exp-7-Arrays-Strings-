@@ -128,6 +128,45 @@ End.
 
 7)Print max with label "The maximum number is:"
 
+## Program 6
+
+1)Declare a string variable a
+
+2)Display prompt: "Enter a string: "
+
+3)Read user input into variable a
+
+4)Display "Entered string is: " followed by the value of a
+
+5)End program with return code 0
+
+## Program 7
+
+1)Declare two string variables a and z (note: z is unused)
+
+2)Display prompt: "Enter a string: "
+
+3)Read user input into variable a
+
+4)Calculate length of string a and store in n
+
+5)Display "Reverse string is: "
+
+6)Loop from i = n down to i = 0:
+
+7)Print character a[i]
+
+## CONCLUSION
+
+Strings is an array of charecters.
+
+Arrays consists of indexes.
+
+Strings can also be indexed.
+
+
+
+
 
 
 
